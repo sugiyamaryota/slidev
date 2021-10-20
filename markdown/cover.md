@@ -1,8 +1,16 @@
 ---
-layout: cover
-background: https://sli.dev/foo.png
+layout: image-right
+image: https://source.unsplash.com/okvqMfl78YE
 ---
 
-# page 1
+# About me
 
-hoge
+<p>杉山良太 / Sugiyama Ryota</p>
+
+<p>静岡（1991~2014）</p>
+<p>福岡（2014~）</p>
+
+- テラリウム。
+- 水の定期購入。
+- 豆が良い、らしい。
+- 大濠公園2周。
