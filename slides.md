@@ -2,7 +2,9 @@
 class: text-center
 background: https://source.unsplash.com/sz4xSDgatF4
 ---
-# 原点回帰
+
+# 10代の点を結ぶ
+
 2021/11/26
 
 ---
@@ -24,14 +26,15 @@ layout: center
 <a href="https://www.google.com/search?q=steve+jobs+connecting+the+dots+&rlz=1C5CHFA_enJP906JP906&sxsrf=AOaemvKBUZlSNezACdIGHH2eDVdkFLowFw%3A1635636917631&ei=tdZ9YayCJZrL-Qaq74fIDA&oq=steve+jobs+connecting+the+dots+&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEAcQHjIFCAAQywEyBggAEAcQHjIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBAgAEB46CAgAELADEMsBOgYIIxAnEBM6BQgAEIAEOggIABAHEB4QE0oECEEYAVDiHFjmO2DjQGgBcAB4AIABkwKIAdEHkgEFMC4zLjKYAQCgAQGgAQLIAQHAAQE&sclient=gws-wiz&ved=0ahUKEwjssNKrpvPzAhWaZd4KHar3AckQ4dUDCA4&uact=5
 " target="_blank">Steve Jobs' 2005 Stanford Commencement Address</a>
 
-<p>現在、自分の中で継続しているモノ</p>
+<p>現在、自分の中で割と継続しているコトの原点</p>
 
 </div>
 
 ---
 
 # Coding
-2013年頃にCodingと出会う。[ドットインストール](https://dotinstall.com/)のHTMLを行う。
+
+2013 年頃に Coding と出会う。[ドットインストール](https://dotinstall.com/)の HTML を行う。
 
 <p>
 小学生の時、中学生になるまでレゴで沢山遊んでいた。<br/>
@@ -45,7 +48,8 @@ Codingにもそれと似た面白さがあった。
 ---
 
 # Jogging
-半年ぐらい前からやっている。今は4km。
+
+半年ぐらい前からやっている。今は 4km。
 
 <p>
 中学生の時、陸上部だった。<br/>
@@ -54,7 +58,8 @@ Codingにもそれと似た面白さがあった。
 </p>
 
 # Guitar
-2004年頃にGuitarと出会う。今はエレキ。
+
+2004 年頃に Guitar と出会う。今はエレキ。
 
 <p>
 高校生の時、友達と近所の音楽教室でアコギの無料体験を受けた。<br/>
@@ -62,17 +67,17 @@ Codingにもそれと似た面白さがあった。
 譜面通りに弾くと再現できるのが面白い。
 </p>
 
-
 ---
 
 # Something
 
-<p>10代まででやっていたこと</p>
+<p>10代で主にやっていたコト</p>
 
 <div class="grid grid-cols-3 mt-12">
     <div>
         <h2 class="text-2xl">遊び</h2>
         <ul>
+            <li>レゴ</li>
             <li>知らない場所へいく</li>
             <li>絵を描く</li>
             <li>ゲーム</li>
@@ -86,6 +91,7 @@ Codingにもそれと似た面白さがあった。
             <li>水泳</li>
             <li>英会話</li>
             <li>空手</li>
+            <li>ギター</li>
         </ul>
     </div>
     <div>
@@ -99,11 +105,10 @@ Codingにもそれと似た面白さがあった。
 
 <p>今までの経験で何かを始めるかもしれない</p>
 
-
 ---
 layout: center
 background: https://source.unsplash.com/sz4xSDgatF4
 ---
 
 # なんとなくやってみる
-これから何か齧ったら面白いことに繋がるかもしれない。
+これから何か齧ったら案外なにかが起きるかもしれない。
