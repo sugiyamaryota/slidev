@@ -3,7 +3,7 @@ class: text-center
 background: https://source.unsplash.com/sz4xSDgatF4
 ---
 
-# 10代の点を結ぶ
+# 10代の習慣
 
 2021/11/26
 
@@ -103,12 +103,19 @@ Codingにもそれと似た面白さがあった。
     </div>
 </div>
 
-<p>今までの経験で何かを始めるかもしれない</p>
+<p>今までの経験でこれから何かを始めるかもしれない</p>
+
+
 
 ---
-layout: center
-background: https://source.unsplash.com/sz4xSDgatF4
+layout: two-cols
 ---
 
-# なんとなくやってみる
-これから何か齧ったら案外なにかが起きるかもしれない。
+::right::
+
+
+<img src="https://source.unsplash.com/okvqMfl78YE">
+
+::default::
+
+「なんとなくやってみる」が大事かもしれない。
